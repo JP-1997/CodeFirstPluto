@@ -1,0 +1,14 @@
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\CodeFirstPluto.exe.config
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\CodeFirstPluto.exe
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\CodeFirstPluto.pdb
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\EntityFramework.dll
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\EntityFramework.SqlServer.dll
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\EntityFramework.xml
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\bin\Debug\EntityFramework.SqlServer.xml
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.csprojAssemblyReference.cache
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.csproj.CoreCompileInputs.cache
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.csproj.CopyComplete
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.exe
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.pdb
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.Migrations.InitialModel.resources
+Z:\NET_Workspace\EntityFramework\CodeFirstPluto\obj\Debug\CodeFirstPluto.csproj.GenerateResource.cache
